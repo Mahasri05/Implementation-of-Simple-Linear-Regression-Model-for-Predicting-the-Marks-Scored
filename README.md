@@ -28,6 +28,7 @@ Developed by:Mahasri.D
 RegisterNumber:24901210  
 */
 ```
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -157,7 +158,7 @@ mse=mean_squared_error(y_test,y_pred)
 print('MSE= ',mse)
 mae=mean_absolute_error(y_test,y_pred)
 print('MAE= ',mae)
-
+```
 
 ## Output:
 ![simple linear regression model for predicting the marks scored](sam.png)
